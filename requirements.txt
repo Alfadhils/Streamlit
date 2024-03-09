@@ -1,0 +1,5 @@
+streamlit
+streamlit-tags
+streamlit-aggrid
+streamlit-option-menu
+requests
